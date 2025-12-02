@@ -1,0 +1,9 @@
+solucions.future/
+out/
+.ipynb_checkpoints
+solucions/.ipynb_checkpoints
+exercicios/.ipynb_checkpoints
+data/.ipynb_checkpoints
+data/silver
+data/bronze
+data/gold
